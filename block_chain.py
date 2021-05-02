@@ -74,4 +74,4 @@ if __name__ == "__main__":
     t6 = blockchain.new_transaction("Charles",'Kevin','10 coins')
     blockchain.new_block(6789)
 
-    print( "Blochain: :", blockchain.chain)
+    print( "Blockchain: :", blockchain.chain)
